@@ -1,0 +1,4 @@
+symbol,ex_date,action_type,cash_dividend,split_ratio
+600001.SH,2024-06-20,cash_dividend,0.20,1.0
+000001.SZ,2024-07-12,cash_dividend,0.15,1.0
+300001.SZ,2024-05-30,stock_split,0.00,1.2

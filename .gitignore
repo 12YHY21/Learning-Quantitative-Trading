@@ -1,0 +1,34 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Python
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.py[cod]
+**/*.egg-info/
+
+# Local databases and caches
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# Frontend
+**/node_modules/
+quant-lab/frontend/dist/
+
+# Obsidian local state
+**/.obsidian/
+**/.trash/
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

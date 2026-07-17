@@ -1,0 +1,4 @@
+symbol,name,exchange,board,list_date,lot_size
+600001.SH,华东制造教学股,SSE,MAIN,2010-01-01,100
+000001.SZ,南方银行教学股,SZSE,MAIN,2000-01-01,100
+300001.SZ,创新科技教学股,SZSE,CHINEXT,2015-01-01,100
